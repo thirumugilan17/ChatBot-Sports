@@ -36,8 +36,8 @@ public class AddScore extends javax.swing.JFrame {
     
     private static final String SMTP_HOST = "smtp.gmail.com";
     private static final int SMTP_PORT = 587;
-    private static final String EMAIL_USER = "thirumugilan578_bit26@mepcoeng.ac.in";
-    private static final String EMAIL_PASSWORD = "thirudinu1707";
+    private static final String EMAIL_USER = "UR_EMAIL";
+    private static final String EMAIL_PASSWORD = "UR_PASSWORD";
     /**
      * Creates new form AddScore
      */
